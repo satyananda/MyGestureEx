@@ -1,5 +1,5 @@
 //
-//  FirstViewController.h
+//  SwipViewController.h
 //  MyGestureEx
 //
 //  Created by Satyanand on 2/12/15.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface FirstViewController : UIViewController
-
+@interface SwipViewController : UIViewController
 
 @end
-

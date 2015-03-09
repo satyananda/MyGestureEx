@@ -1,5 +1,5 @@
 //
-//  SecondViewController.h
+//  PinchViewController.h
 //  MyGestureEx
 //
 //  Created by Satyanand on 2/12/15.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface SecondViewController : UIViewController
-
+@interface PinchViewController : UIViewController
 
 @end
-
